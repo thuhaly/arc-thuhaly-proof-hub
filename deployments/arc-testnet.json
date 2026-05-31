@@ -1,0 +1,8 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcThuhalyProofHub",
+  "address": "0x9425573bF331b45dEB12F20f47e2d06529801b8C",
+  "txHash": "0x977723d5ce1aade647deb8119d19aab64c95f3326ebb7674945ef7cfe34cae3d",
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC"
+}
